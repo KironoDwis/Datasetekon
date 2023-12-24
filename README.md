@@ -1,0 +1,2 @@
+# Datasetekon
+ data uas rstudio
